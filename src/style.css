@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(30, 104, 104);
+    font: normal 15px Arial;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    font: normal 15pt Arial;
+    color: rgb(119, 8, 95);
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px black ;
+
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+input{
+    border-radius: 15px;
+    padding: 6px;
+}
+select{
+    border-radius: 15px;
+    padding: 15px;
+    width: 150px;
+}
+div#res{
+    padding: 15px;
+    color: rgb(229, 233, 0);
+    font-style: italic;
+    text-align: center;
+    background-color: black;
+    border-radius: 15px;
+}
