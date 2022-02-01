@@ -11,7 +11,6 @@ function isNum(n){
     }
 
 }
-
 function inList(n , l){
     if(l.indexOf(Number(n)) != -1){
         return true
@@ -20,7 +19,6 @@ function inList(n , l){
     }
 
 }
-
 function add(){
     if (isNum(num.value) && !inList(num.value, val)){
         val.push(Number(num.value))
